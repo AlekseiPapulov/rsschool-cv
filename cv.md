@@ -1,4 +1,2 @@
 # Aleksei Papulov
-
-## Contacts 108
-
+## Contacts
