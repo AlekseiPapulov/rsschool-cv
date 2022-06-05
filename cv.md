@@ -2,8 +2,6 @@
 
 ## rsschool student
 
-====
-
 ### Contact information
 
 - Phone: +995 591 702513
@@ -14,7 +12,7 @@
 
 # About me
 
-# I am a completely new person in programming and i am learning programming because it gives me the opportunity to develop myself and learn something new. I plan to study at the RA school and try myself as a Frontend Developer. I enjoy photography and playing musical instruments at my free time
+# I am a completely new person in programming and i am learning programming because it gives me the opportunity to develop myself and learn something new. I plan to study at the RS school and try myself as a Frontend Developer. I enjoy photography and playing musical instruments at my free time
 
 # My skills:
 
